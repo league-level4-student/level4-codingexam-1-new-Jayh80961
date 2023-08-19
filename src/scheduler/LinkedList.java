@@ -38,7 +38,7 @@ public class LinkedList<T> {
                 head.setPrev(null);
             }
 
-        } else {
+        } else { 
 
             int positionCounter = 1;
             Node<T> prev = head;
